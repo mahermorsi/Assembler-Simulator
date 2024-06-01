@@ -1,0 +1,3 @@
+﻿  sim.c
+C:\Users\Maher\OneDrive\Desktop\ISA Project\Simulator\Simulator\sim.c(346): warning C4715: 'GetNextIRQ2': not all control paths return a value
+  Simulator.vcxproj -> C:\Users\Maher\OneDrive\Desktop\ISA Project\Simulator\Debug\Simulator.exe

@@ -1,0 +1,13 @@
+﻿  Assembler.c
+C:\Users\Maher\OneDrive\Desktop\ISA Project\Assembler\Assembler\Assembler.c(197,25): warning C4013: 'tolower' undefined; assuming extern returning int
+C:\Users\Maher\OneDrive\Desktop\ISA Project\Assembler\Assembler\Assembler.c(305,36): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[6]'
+C:\Users\Maher\OneDrive\Desktop\ISA Project\Assembler\Assembler\Assembler.c(305,29): warning C4024: 'ReadOpcodeFromLine': different types for formal and actual parameter 2
+C:\Users\Maher\OneDrive\Desktop\ISA Project\Assembler\Assembler\Assembler.c(306,35): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[6]'
+C:\Users\Maher\OneDrive\Desktop\ISA Project\Assembler\Assembler\Assembler.c(306,32): warning C4024: 'ReadRegistersFromLine': different types for formal and actual parameter 2
+C:\Users\Maher\OneDrive\Desktop\ISA Project\Assembler\Assembler\Assembler.c(308,35): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[6]'
+C:\Users\Maher\OneDrive\Desktop\ISA Project\Assembler\Assembler\Assembler.c(308,32): warning C4024: 'ReadRegistersFromLine': different types for formal and actual parameter 2
+C:\Users\Maher\OneDrive\Desktop\ISA Project\Assembler\Assembler\Assembler.c(310,35): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[6]'
+C:\Users\Maher\OneDrive\Desktop\ISA Project\Assembler\Assembler\Assembler.c(310,32): warning C4024: 'ReadRegistersFromLine': different types for formal and actual parameter 2
+C:\Users\Maher\OneDrive\Desktop\ISA Project\Assembler\Assembler\Assembler.c(311,31): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\Maher\OneDrive\Desktop\ISA Project\Assembler\Assembler\Assembler.c(311,27): warning C4024: 'ReadimmdFromLine': different types for formal and actual parameter 2
+  Assembler.vcxproj -> C:\Users\Maher\OneDrive\Desktop\ISA Project\Assembler\Debug\Assembler.exe
